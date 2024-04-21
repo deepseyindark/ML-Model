@@ -1,2 +1,2 @@
-# Bharat-Intern-ML-Internship
-Tasks of Bharat Intern ML Internship
+# ML Model
+Here are some machine learning models i made as a beginner
